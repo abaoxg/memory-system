@@ -1,0 +1,13 @@
+# 运行时产物
+.tmp/
+*.bak
+*.new
+*.tmpnew
+
+# 记忆库本体（用户自己的数据，不入库）
+memory/
+.ai-memory/
+
+# 系统
+.DS_Store
+Thumbs.db
