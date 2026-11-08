@@ -1,5 +1,8 @@
 # memory-system
 
+[![shellcheck](https://github.com/abaoxg/memory-system/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/abaoxg/memory-system/actions/workflows/shellcheck.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 一套**零依赖、跨平台、可移植**的 AI 长期记忆系统。纯文件驱动，不依赖数据库、向量库或云服务。
 
 给任何能读写文件的 AI 用：Claude Code、Cursor、Codex、ChatGPT、Ollama、本地模型、手机 Agent。
